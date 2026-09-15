@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.feather
+data/*.tsv
+data/*.parquet
+*.log
+*.gif
+*.png
+*.mp4
+hero_cache/
